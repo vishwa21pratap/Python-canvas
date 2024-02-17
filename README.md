@@ -1,0 +1,1 @@
+This project is a camera-based canvas drawing application. It allows users to draw on a virtual canvas using a camera feed as the background. The application captures the camera feed and superimposes a drawing canvas on top of it, enabling users to create digital artwork directly on the live video.
